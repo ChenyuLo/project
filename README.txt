@@ -4,4 +4,5 @@ hello
 bbbbbbbb
 i like apple
 I like thursday!!
-Last week of class!!!Ã
+Last week of class!!!Ãƒ
+Add on GitHub
